@@ -1,0 +1,7 @@
+telethon
+pandas
+dotenv
+transformers
+torch 
+torchvision 
+torchaudio
